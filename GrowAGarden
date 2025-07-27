@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyHubz/OpVISUAL/refs/heads/main/Script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyHubz/OPSpawner/refs/heads/main/GAG", true))()
