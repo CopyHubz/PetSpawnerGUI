@@ -1,3 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/q2Y1uwE0/raw"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyHubz/OPSpawner/refs/heads/main/GAG", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyHubz/OpVISUAL/refs/heads/main/Script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CopyHubz/OPSpawner/refs/heads/main/GAG", true))()
